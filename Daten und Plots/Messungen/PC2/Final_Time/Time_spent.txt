@@ -1,0 +1,28 @@
+Started measurement at: 2026-08-07 11:14:11.066465
+The measurements had a duration of:
+ResFreq0=2182.69s
+finished this instance at: 2026-08-07 11:50:35.070877
+ResFreq1=2179.62s
+finished this instance at: 2026-08-07 12:26:57.805267
+ResFreq2=2191.26s
+finished this instance at: 2026-08-07 13:03:32.159004
+
+NonTemp measuring done
+
+Starting Temp Measurement
+TempFreq37.0=2225.46s
+finished this instance at: 2026-08-07 13:40:40.674589
+TempFreq40.0=2671.10s
+finished this instance at: 2026-08-07 14:25:13.310885
+TempFreq43.0=3170.25s
+finished this instance at: 2026-08-07 15:18:04.510597
+TempFreq46.0=4153.59s
+finished this instance at: 2026-08-07 16:27:20.043276
+TempFreq49.0=4693.30s
+finished this instance at: 2026-08-07 17:45:34.410771
+TempFreq52.0=6085.16s
+finished this instance at: 2026-08-07 19:27:00.694399
+TempFreq55.0=4606.33s
+finished this instance at: 2026-08-07 20:43:48.240935
+TempFreq58.0=6617.93s
+finished this instance at: 2026-08-07 22:34:08.505674

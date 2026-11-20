@@ -1,0 +1,12 @@
+Time_spent
+
+TempFreq40:5915.01s 
+TempFreq44:2071.05s 
+TempFreq48:2957.00s 
+TempFreq52:3362.22s 
+
+TempFreq42:22179.14s 
+TempFreq46:2382.36s 
+TempFreq50:2939.18s 
+TempFreq54:3396.50s 
+TempFreq58:4198.74s 

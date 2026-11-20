@@ -1,0 +1,4 @@
+Time_spent
+ ResFreq0=15030.82s
+ ResFreq1=15030.78s
+ ResFreq2=15030.70sNonTemp measuring done
